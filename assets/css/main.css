@@ -3257,6 +3257,7 @@ input, select, textarea {
 
 #content {
 	text-align: justify;
+	margin-bottom: 3em;
 }
 
 .light-emphasis {
@@ -3270,4 +3271,12 @@ figcaption {
   line-height: 1.5em;
 	text-align: center;
   margin-top: .6em;
+}
+
+#me-img {
+	border-radius: 50%;
+	object-fit: cover;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
 }
