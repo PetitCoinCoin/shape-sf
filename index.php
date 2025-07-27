@@ -8,6 +8,7 @@
 	<head>
 		<title>Shape Saddle-fitting</title>
 		<?php include("pages/commons/meta.html"); ?>
+		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
 
 	<body class="is-preload">
@@ -15,6 +16,48 @@
 			
 			<!-- Header -->
 			<?php include("pages/commons/header.html"); ?>
+			<!-- Main -->
+				<section class="wrapper style1">
+					<div class="container">
+						<div class="row gtr-200">
+							<div class="col-4 col-12-narrower">
+								<figure role="figure" class="image featured" aria-label="Une selle">
+									<img src="assets/images/home.jpg" alt="saddle" />
+									<figcaption>
+										Photo by <a href="https://unsplash.com/@photomatic_s?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Matias Tapia</a> on <a href="https://unsplash.com/photos/black-leather-backpack-with-black-leather-belt-juZ8bACGT6U?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+									</figcaption>
+								</figure>
+							</div>
+							<div class="col-8 col-12-narrower">
+								<div id="content">
+									<p>
+										Votre cheval manifeste des signes d’inconfort au sanglage ?<br />
+										Il bouge quand il voit la selle ?<br />
+										Ses allures sont étriquées sous la selle, mais développées en longe ?<br />
+										Votre enseignant vous répète en permanence de tenir votre dos, ou de reculer vos jambes?
+									</p>
+									<p class="light-emphasis">
+										Autant de signes qui pointent vers une selle inadaptée.
+									</p>
+									<p>
+										La culture générale du cavalier français, et le marché francais de la sellerie quasiment uniquement constitué de selles non modifiables (et fort peu de vrai sur-mesure, quand on se penche sur la question), occulte cette partie ô combien essentielle pour le cavalier et son cheval.</p>
+									<p>
+										Faire vérifier sa selle, ou choisir une selle via le conseil d’un « saddle-fitter », c’est offrir une selle 
+										qui n’occasionne pas de points de pression douloureux pour votre cheval, en jouant sur les tailles d’arcades, 
+										les formes d’arçons, les réglages d’équilibre de la selle, mais aussi en tenant compte de la sangle. Cela permet   
+										alors à votre cheval de developper sa vraie locomotion sans gêne.<br />
+										Mais c’est aussi vous offrir une selle contre laquelle vous ne vous battez pas, une selle qui vous verticalise 
+										sans efforts, et qui est adaptée à votre morphologie.
+									</p>
+									<p>
+										Car l’équitation ne devrait pas être un combat postural de tous les instants, mais bien une recherche de neutralité 
+										et de discrétion. 
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
 
 			<!-- Footer -->
 			<?php include("pages/commons/footer.html"); ?>
