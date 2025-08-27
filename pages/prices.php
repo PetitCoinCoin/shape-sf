@@ -21,7 +21,7 @@
 			<!-- Main -->
 				<section class="wrapper style1">
 					<div class="container">
-						<div id="content">
+						<div class="content">
 							<h3>Secteur d'intervention</h3>
 							<p>1h30 autour de Blagnac (31), groupement de clients nécessaire si plus d’une heure de route, et favorisé dans tous les cas.</p>
 							<p><ul>

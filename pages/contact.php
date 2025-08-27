@@ -31,7 +31,7 @@
 								</figure>
 							</div>
 							<div class="col-8 col-12-narrower">
-								<div id="content">
+								<div class="content">
 									<h3>Morgane Pellegrinelli</h3>
 									<h4>Conseil en ergonomie de la selle</h4>
 									<p>

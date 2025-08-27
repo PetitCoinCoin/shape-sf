@@ -28,7 +28,7 @@
 								</figure>
 							</div>
 							<div class="col-8 col-12-narrower children-vertical">
-								<div id="content">
+								<div class="content">
 									<h3>Qui suis-je ?</h3>
 									<p>
 										En 2010, j’ai enfin réalisé mon rêve de devenir propriétaire de mon premier cheval: 
@@ -43,7 +43,7 @@
 								</div>
 							</div>
 						</div>
-						<div id="content">
+						<div class="content">
 							<p>
 								D’un autre côté, ma formation initiale d’ingénieure en gestion d’aéroport, et une forte propension à la 
 								logistique et à l’optimisation des flux, me poussent à comprendre en profondeur les choses: observer, analyser, 

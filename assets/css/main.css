@@ -3200,7 +3200,7 @@ h6 {
 	color: #999;
 }
 
-#content {
+.content {
 	text-align: justify;
 	margin-bottom: 3em;
 }

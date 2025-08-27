@@ -23,7 +23,7 @@
 					<div class="container">
 						<div class="row gtr-200">
 							<div class="col-8 col-12-narrower">
-								<div id="content">
+								<div class="content">
 									<h3>Contenu d’une séance en ergonomie de la selle</h3>
 									<p>
 										Une séance en ergonomie de la selle, ce n’est pas juste mesurer l’arcade de la selle et trouver un modèle 
@@ -66,7 +66,7 @@
 								</figure>
 							</div>
 							<div class="col-8 col-12-narrower">
-								<div id="content">
+								<div class="content">
 									<h3>Informations à connaitre avant la séance</h3>
 									<p>Le cheval doit être pansé et prêt à seller pour l’heure du RDV, mais ni sellé ni échauffé au préalable.</p>
 									<p>Vous devez être en tenue d’équitation et monter à cheval pendant la séance.<br />
@@ -82,7 +82,7 @@
 						</div>
 						<div class="row gtr-200">
 							<div class="col-8 col-12-narrower">
-								<div id="content">
+								<div class="content">
 									<h3>Une selle adaptable, pourquoi ?</h3>
 									<p>
 										La tradition de sellerie française va à la selle non adaptable (ou tout du moins, pas autant qu’un saddle-fitter aime, 

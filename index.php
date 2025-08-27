@@ -23,7 +23,7 @@
 					<div class="container">
 						<div class="row gtr-200">
 							<div class="col-8 col-12-narrower">
-								<div id="content">
+								<div class="content">
 									<p>
 										Votre cheval manifeste des signes d’inconfort ou des défenses au sanglage ?<br />
 										Il bouge quand il voit la selle ?<br />
@@ -52,7 +52,7 @@
 								</figure>
 							</div>
 							<div class="col-8 col-12-narrower">
-								<div id="content">
+								<div class="content">
 									<p>
 										Faire vérifier sa selle, ou choisir une selle via le conseil d’un « saddle-fitter », c’est offrir une selle 
 										qui n’occasionne pas de points de pression douloureux pour votre cheval, en jouant sur les tailles d’arcades, 
