@@ -78,7 +78,7 @@
 											<li>La location de selles est possible: chaque projet et chaque couple étant différents, me consulter à ce sujet. 
 											Toute location sera soumise à une séance de conseil au préalable</li>
 										</ul></p>
-										<p>* Forfait déplacement à la consultation: 30€ / 30 min de route (dégressif si groupage)</p>
+										<p>* Forfait déplacement à la consultation: 30€ / 30min de route (dégressif si groupage)</p>
 									</div>
 								</div>
 								<div class="col-4 col-12-narrower">
@@ -98,6 +98,6 @@
 
 		<!-- Scripts -->
 		<?php include("commons/scripts.html"); ?>
-		<script>$('#nav-prices').addClass('current')</script>
+		<script>$('#nav-saddle-fitting').addClass('current')</script>
 	</body>
 </html>
