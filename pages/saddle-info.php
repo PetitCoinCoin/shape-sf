@@ -69,7 +69,7 @@
 								<div class="content">
 									<p>Le cheval doit être pansé et prêt à seller pour l’heure du RDV, mais ni sellé ni échauffé au préalable.</p>
 									<p>
-										Vous devez être en tenue d’équitation et monter à cheval pendant la séance.</br>
+										Vous devez être en tenue d’équitation et monter à cheval pendant la séance.<br/>
 										Séance “pré-débourrage” possible, tarifs et durée moindres.
 									</p>
 									<p>
