@@ -3237,8 +3237,32 @@ figcaption {
 			max-height: 350px;
 		}
 	}
-	
+
 .children-vertical {
 	display: flex;
 	align-items: center;
+}
+
+.flex-h2 {
+	display: flex;
+	gap: 10px;
+	
+	> * {
+		width: 50%;
+	}
+}
+
+.flex-h3 {
+	display: flex;
+	gap: 10px;
+	
+	> * {
+		width: 33%;
+	}
+}
+
+.flex-v {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
 }
