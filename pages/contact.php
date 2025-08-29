@@ -23,11 +23,8 @@
 					<div class="container">
 						<div class="row gtr-200">
 							<div class="col-4 col-12-narrower">
-								<figure role="figure" class="image featured" aria-label="Un cheval au galop">
-									<img src="/assets/images/contact.jpg" alt="a horse running" />
-									<figcaption>
-										Photo by <a href="https://unsplash.com/@kimberlyarchambaultphoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kimberly Archambault</a> on <a href="https://unsplash.com/photos/a-horse-running-on-a-dirt-track-JSJTEzgNks8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-									</figcaption>
+								<figure role="figure" class="image featured" aria-label="Une femme selle un cheval">
+									<img src="/assets/images/contact.jpg" alt="Une femme selle un cheval" />
 								</figure>
 							</div>
 							<div class="col-8 col-12-narrower">
@@ -36,8 +33,11 @@
 									<h4>Conseil en ergonomie de la selle</h4>
 									<p>
 										<span><b>Email:</b> m.p.ergo.selle@gmail.com</span><br/>
-										<span><b>Téléphone:</b> 07 88 11 95 46</span><br />
-										<span><b>Facebook:</b>  https://www.facebook.com/profile.php?id=100063739141304</span>
+										<span><b>Téléphone:</b> 07 88 11 95 46</span><br/>
+										<span>
+											Retrouvez moi sur <a href="https://www.facebook.com/profile.php?id=100063739141304" target="_blank">Facebook</a> 
+											et sur <a href="https://www.instagram.com/m_pellegrinelli_ergo_selle/" target="_blank">Instagram</a>.
+										</span>
 									</p>
 									<p>Merci de privilégier les emails afin de ne pas éparpiller les sollicitations !</p>
 								</div>
