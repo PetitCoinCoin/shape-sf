@@ -3266,3 +3266,7 @@ figcaption {
 	flex-direction: column;
 	gap: 10px;
 }
+
+#mlogo {
+	margin-top: 8px;
+}
