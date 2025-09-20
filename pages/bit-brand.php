@@ -23,7 +23,7 @@
 					<div class="container">
 						<div class="content">
 							<h3>Marques</h3>
-							<h6>NEUE SHUHE</h6>
+							<h6>NEUE SHULE</h6>
 							<div class="row gtr-200">
 								<div class="col-9 col-12-narrower">
 									<div class="content">
@@ -37,7 +37,7 @@
 								</div>
 								<div class="col-3 col-12-narrower">
 									<figure role="figure" class="image featured">
-										<img src="../assets/images/bitBrandNeueShuhe.jpg" alt="" />
+										<img src="../assets/images/bitBrandNeueShule.jpg" alt="" />
 									</figure>
 								</div>
 							</div>
